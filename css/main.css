@@ -4,6 +4,10 @@ html {
 }
 
 h1 {
-  font-family: PT Sans;
-  line-height:
+  font-family: sans-serif;
+  font-weight: normal
+}
+
+i {
+  font-style: italic;
 }
