@@ -4,11 +4,14 @@ html {
 }
 
 h1 {
-  font: "PT Sans";
+  font-family: sans-serif;
   color: #3f1622;
+  font: "PT Sans";
+  font-weight: bold;
 }
 
 i {
+  font-family: sans-serif;
   font-style: italic;
   color: #3f1622;
   font: "PT Sans";
